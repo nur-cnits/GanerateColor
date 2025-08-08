@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 50vh;
+}
+h3 {
+  font-size: 30px;
+  font-family: sans-serif;
+  font-family: sans-serif;
+}
+
+div {
+  height: 100px;
+  width: 300px;
+  border: 1px solid black;
+  margin-top: 50px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-family: sans-serif;
+}
